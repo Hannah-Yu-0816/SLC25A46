@@ -1,6 +1,7 @@
 # SLC26A46
 
 **Author:** Han Yu 
+
 **Last updated:** January 2026  
 
 ---
